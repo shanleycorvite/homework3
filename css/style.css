@@ -67,10 +67,11 @@ table{
 td{
   padding: 10px;
   text-align: center;
+  border: 2px solid #000000
 }
 
 tr{
-
+  border: 2px solid #000000
 }
 
 *{
