@@ -57,7 +57,7 @@ table{
   color: #FFFFFF;
   min-width: 125px; 
   padding: 10px;
-  text-align: center;
+  vertical-align: middle;
   text-transform: uppercase;
 }
 
