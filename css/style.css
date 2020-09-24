@@ -34,7 +34,7 @@ h1{
 }
 
 caption{
-  margin:5px 0px;
+  margin: 5px 0px;
 }
 
 p{
@@ -42,7 +42,8 @@ p{
 }
 
 a{
-
+  font-size: 16px;
+  color: #C12258;
 }
 
 table{
