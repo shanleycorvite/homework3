@@ -68,7 +68,7 @@ table{
 td{
   padding: 10px;
   text-align: center;
-  border-top: 2px solid #000000
+  border-top: 2px solid #000000;
 }
 
 tr:nth-child(even){
@@ -80,7 +80,7 @@ tr:nth-child(odd){
 }
 
 tr:hover {
-  background-color: rgba(126, 8, 32, .25)
+  background-color: rgba(126, 8, 32, .25);
 }
 
 *:focus{
